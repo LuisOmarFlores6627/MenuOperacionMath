@@ -1,0 +1,17 @@
+------------------ Ejemplo de resta en py 
+# Solicitar al usuario que ingrese dos números
+numero1 = float(input("Ingresa el primer número: "))
+numero2 = float(input("Ingresa el segundo número: "))
+
+# Realizar la resta
+resultado = numero1 - numero2
+
+# Mostrar el resultado
+print("La resta de", numero1, "menos", numero2, "es:", resultado)
+
+
+
+------- Ejemplo de salida en consola 
+Ingresa el primer número: 10
+Ingresa el segundo número: 3
+La resta de 10.0 menos 3.0 es: 7.0

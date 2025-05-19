@@ -1,0 +1,18 @@
+---- Ejemplo de suma en py 
+# Solicitar al usuario que ingrese dos números
+numero1 = float(input("Ingresa el primer número: "))
+numero2 = float(input("Ingresa el segundo número: "))
+
+# Realizar la suma
+resultado = numero1 + numero2
+
+# Mostrar el resultado
+print("La suma de", numero1, "y", numero2, "es:", resultado)
+
+
+
+
+--------- Ejemplo de salida en consola 
+Ingresa el primer número: 8.5
+Ingresa el segundo número: 4.2
+La suma de 8.5 y 4.2 es: 12.7

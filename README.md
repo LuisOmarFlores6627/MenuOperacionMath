@@ -6,9 +6,9 @@ Menu de operacion Matemática
 
 ## Operaciones 
 
-1. [Suma](https://github.com/LuisOmarFlores6627/MenuOperacionMath/blob/9e966f36b036ee1d31e1a4cdf8afc1260420ce81/Suma)
-2. [Resta](https://github.com/LuisOmarFlores6627/MenuOperacionMath/blob/23d631e8a2c902d9713d8a208c56f826ee97f0f2/Resta)
-3. [Multiplicación](https://github.com/LuisOmarFlores6627/MenuOperacionMath/blob/f97282df4c0fb83ce42272a98d7006ca14fa4b22/Multi)
+1. [Suma](https://github.com/LuisOmarFlores6627/MenuOperacionMath/blob/7f712aaf25bf76af2f0ef87d744a3274ea76547a/Suma)
+2. [Resta]()
+3. [Multiplicación]()
 
 
 

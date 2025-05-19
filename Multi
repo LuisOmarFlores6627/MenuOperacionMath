@@ -1,0 +1,16 @@
+------ Ejemplo de multiplicacion
+# Solicitar al usuario que ingrese dos números
+numero1 = float(input("Ingresa el primer número: "))
+numero2 = float(input("Ingresa el segundo número: "))
+
+# Realizar la multiplicación
+resultado = numero1 * numero2
+
+# Mostrar el resultado
+print("La multiplicación de", numero1, "por", numero2, "es:", resultado)
+
+
+------------------Resultado en pantalla 
+Ingresa el primer número: 6
+Ingresa el segundo número: 4
+La multiplicación de 6.0 por 4.0 es: 24.0

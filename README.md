@@ -6,7 +6,7 @@ Menu de operacion Matemática
 
 ## Operaciones 
 
-1. [Suma](https://github.com/LuisOmarFlores6627/MenuOperacionMath/blob/7f712aaf25bf76af2f0ef87d744a3274ea76547a/Suma)
+1. [Suma](https://github.com/LuisOmarFlores6627/MenuOperacionMath/blob/a447e0375c9ee386c75297b26fbddfc5771847e3/SumaenRama)
 2. [Resta]()
 3. [Multiplicación]()
 
